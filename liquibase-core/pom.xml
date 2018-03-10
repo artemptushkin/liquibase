@@ -3,14 +3,14 @@
 
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>liquibase-core</artifactId>
+    <artifactId>liquibase-core-custom</artifactId>
     <name>Liquibase Core</name>
     <packaging>jar</packaging>
 
     <parent>
         <groupId>org.liquibase</groupId>
         <artifactId>liquibase-parent</artifactId>
-        <version>3.5.4-SNAPSHOT</version>
+        <version>3.5.4.1-SNAPSHOT</version>
     </parent>
 
     <properties>

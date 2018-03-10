@@ -7,7 +7,7 @@
     <plugins>
       <plugin>
         <groupId>org.liquibase</groupId>
-        <artifactId>liquibase-maven-plugin</artifactId>
+        <artifactId>liquibase-maven-plugin-custom</artifactId>
         <version>3.5.4-SNAPSHOT</version>
         <configuration>
           <verbose>true</verbose>
