@@ -7,8 +7,8 @@
     <plugins>
       <plugin>
         <groupId>org.liquibase</groupId>
-        <artifactId>liquibase-maven-plugin-custom</artifactId>
-        <version>3.5.4-SNAPSHOT</version>
+        <artifactId>liquibase-maven-plugin</artifactId>
+        <version>3.5.4.1</version>
         <configuration>
           <verbose>true</verbose>
           <changeLogFile>src/test/resources/validateResources/fail/included/test-changelog.xml</changeLogFile>
